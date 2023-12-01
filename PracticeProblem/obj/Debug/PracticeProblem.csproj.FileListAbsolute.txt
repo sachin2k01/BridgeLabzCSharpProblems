@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.exe.config
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\bin\Debug\PracticeProblem.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PracticeProblem\obj\Debug\PracticeProblem.pdb
