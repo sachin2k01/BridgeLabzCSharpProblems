@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PracticeProblem.Program2</StartupObject>
+    <StartupObject>PracticeProblem.Program4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -11,12 +11,14 @@ namespace PracticeProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a Number ");
-            string num=Console.ReadLine();
-            Console.WriteLine("Printing Entered Number 10 Times");
-            for(int i = 0;i<10;i++)
-            {
-                Console.WriteLine(num);
-            }
+            string num = Console.ReadLine();
+
+            int val = int.Parse(num);
+
+            int res = val * 10;
+            string str=res.ToString();
+            Console.WriteLine($"the value 10 times print as string is: {str}");
         }
+            
     }
 }
