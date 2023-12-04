@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PracticeProblem
 {
@@ -12,14 +8,28 @@ namespace PracticeProblem
         {
             Console.WriteLine("Enter a Number to Find a square root of the Number");
             int num = int.Parse(Console.ReadLine());
+            Program28 p=new Program28();
+            p.findsqrt(num);
 
-            if(num <2) 
+        }
+
+        public void findsqrt(double num)
+        {
+            if (num < 2)
             {
-                Console.WriteLine("Square root of enterd number is :" + num);
+                Console.WriteLine("Square root of enterd number is : " + num);
             }
+            double x = num;
+            double y = (x + (num / x)) / 2;
 
-            int sroot = ((num) * 1 / 2);
-            Console.WriteLine(sroot);
+            while (Math.Abs(x - y) >= 0.00001)
+            {
+                x = y;
+                y = (x + (num / x)) / 2;
+
+            }
+            Console.WriteLine("Square root of enterd number is : " + y);
         }
     }
-}
+ }
+  
