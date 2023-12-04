@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PracticeProblem.Program30</StartupObject>
+    <StartupObject>PracticeProblem.Program41</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Compile Include="Program30.cs" />
     <Compile Include="Program33.cs" />
     <Compile Include="Program4.cs" />
+    <Compile Include="Program41.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
