@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\bin\Debug\PS2.exe.config
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\bin\Debug\PS2.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\bin\Debug\PS2.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\obj\Debug\ProblemStatement2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\obj\Debug\ProblemStatement2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\obj\Debug\PS2.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\PS2\obj\Debug\PS2.pdb
