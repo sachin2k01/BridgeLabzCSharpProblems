@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PS2.PS20</StartupObject>
+    <StartupObject>PS2.PS7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoursePS11.cs" />
+    <Compile Include="PersonPS11.cs" />
+    <Compile Include="PS11.cs" />
     <Compile Include="PS18.cs" />
     <Compile Include="PS19.cs" />
     <Compile Include="PS2.cs" />
