@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PS2.PS7</StartupObject>
+    <StartupObject>PS2.PS11</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
