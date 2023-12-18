@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\bin\Debug\net8.0\ProductValidate.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\bin\Debug\net8.0\ProductValidate.deps.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\bin\Debug\net8.0\ProductValidate.runtimeconfig.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\bin\Debug\net8.0\ProductValidate.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\bin\Debug\net8.0\ProductValidate.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.sourcelink.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\refint\ProductValidate.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ProductValidate.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\ProductValidate\obj\Debug\net8.0\ref\ProductValidate.dll
