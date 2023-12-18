@@ -12,22 +12,8 @@ namespace RegularExpressionProblem
             RO.ValidatePhoneNo();
             RO.FindNameWithFirstLetter();
             RO.DobValidation();
-
-
-
-
-            //Regex rg= new Regex(@"\b\w{9}\b");
-            //Console.WriteLine(rg.Match(text.ToLower()));
-
-
-
-            //string phone = "My Phone Number is:  944-94-54260";
-
-            //string pattern = @"\b\d{3}-\d{2}-\d{5}\b";
-            //Regex r1= new Regex(pattern);
-
-            //Console.WriteLine(r1.Match(phone));
-
+            RO.ValidateEmail();
+            RO.ValidatePassword();
 
 
 

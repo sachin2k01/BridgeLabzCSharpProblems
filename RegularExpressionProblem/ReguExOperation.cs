@@ -27,7 +27,7 @@ namespace RegularExpressionProblem
         {
 
             Console.WriteLine("enter your Number to Check its Valid or Not(ex: 12345-65432)");
-            string phone=Console.ReadLine();
+            string phone = Console.ReadLine();
             string patternNo = @"\b\d{5}-\d{5}";
             Regex rg2=new Regex(patternNo);
             bool phNo=rg2.IsMatch(phone);
@@ -61,10 +61,36 @@ namespace RegularExpressionProblem
             Console.WriteLine("Enter Date of Birth to Validate( 24-JAN-2000)");
             string DOB=Console.ReadLine();
 
-            string pattern = @"[0-9]{2}-[A-Z]{3}-[0-9]{4}";
+            string pattern = @"[0-9]{2}-[A-Z]{3}-[0-9]{4}$";
 
             Regex rg2=new Regex(pattern);
             Console.WriteLine(rg2.IsMatch(DOB.ToUpper()));
+        }
+
+        public void ValidateEmail()
+        {
+            Console.WriteLine("Enter an email id to validate");
+            string email = Console.ReadLine();
+
+
+            string pattern = @"^[a-z]{1}[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-]+$";
+
+            bool res=Regex.IsMatch(email, pattern);
+
+            if (res)
+                Console.WriteLine("Valid Email");
+            else
+                Console.WriteLine("Invalid Email");
+        }
+
+        public void ValidatePassword()
+        {
+            Console.WriteLine("Enter an Password");
+            string password = Console.ReadLine();
+            string pattern = @"^[A-Z]{1,3}\w[a-z0-9!@]{7,}$";
+            bool res = Regex.IsMatch(password, pattern);
+            if (res) Console.WriteLine("Password is Secured and its Strong");
+            else Console.WriteLine("Wrong Enter Strong One");
         }
 
     }
