@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\bin\Debug\net8.0\DataAnnotation.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\bin\Debug\net8.0\DataAnnotation.deps.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\bin\Debug\net8.0\DataAnnotation.runtimeconfig.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\bin\Debug\net8.0\DataAnnotation.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\bin\Debug\net8.0\DataAnnotation.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.sourcelink.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\refint\DataAnnotation.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\DataAnnotation.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\DataAnnotation\obj\Debug\net8.0\ref\DataAnnotation.dll
