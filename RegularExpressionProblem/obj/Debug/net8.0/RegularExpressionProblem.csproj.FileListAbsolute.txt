@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\bin\Debug\net8.0\RegularExpressionProblem.exe
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\bin\Debug\net8.0\RegularExpressionProblem.deps.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\bin\Debug\net8.0\RegularExpressionProblem.runtimeconfig.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\bin\Debug\net8.0\RegularExpressionProblem.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\bin\Debug\net8.0\RegularExpressionProblem.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.sourcelink.json
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\refint\RegularExpressionProblem.dll
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.pdb
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\RegularExpressionProblem.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BridgeLabzPracticeProblem\RegularExpressionProblem\obj\Debug\net8.0\ref\RegularExpressionProblem.dll
